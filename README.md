@@ -1,16 +1,17 @@
-# watch
+# Watch
+A new Flutter project named Clock_App.
 
-A new Flutter project.
+## Gif Demo
 
-## Getting Started
+![Clock App Demo](https://github.com/PavanWarMachine/Clock_App/blob/main/Clock_App%20Functionality.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Clock.jpeg" width="200" border="1" /></kbd>
+<kbd> <img src="(https://github.com/PavanWarMachine/Clock_App/blob/main/Stop%20Watch.jpeg)" width="200" border="1" /></kbd>
+<kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Timer%20Selector.jpeg" width="200" border="1" /></kbd><kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Timer.jpeg" width="200" border="1" /></kbd>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
