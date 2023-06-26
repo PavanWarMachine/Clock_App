@@ -9,7 +9,7 @@ A new Flutter project named Clock_App.
 ## Screenshots
 
 <kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Clock.jpeg" width="300" border="1" /></kbd>
-<kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Stop_Watch.jpeg" width="300" border="1" /></kbd>
+<kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Stop_Watch.jpeg" width="300" border="1" /></kbd><br>
 <kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Timer_Selector.jpeg" width="300" border="1" /></kbd><kbd> <img src="https://github.com/PavanWarMachine/Clock_App/blob/main/Timer.jpeg" width="300" border="1" /></kbd>
 
 
